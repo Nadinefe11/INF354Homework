@@ -1,0 +1,10 @@
+C:\Users\Nadine Ferreira\Documents\2018\INF354\GreenhouseINF354HW\INF354Greenhouse\INF354Greenhouse\bin\INF354Greenhouse.dll.config
+C:\Users\Nadine Ferreira\Documents\2018\INF354\GreenhouseINF354HW\INF354Greenhouse\INF354Greenhouse\bin\INF354Greenhouse.dll
+C:\Users\Nadine Ferreira\Documents\2018\INF354\GreenhouseINF354HW\INF354Greenhouse\INF354Greenhouse\bin\INF354Greenhouse.pdb
+C:\Users\Nadine Ferreira\Documents\2018\INF354\GreenhouseINF354HW\INF354Greenhouse\INF354Greenhouse\bin\EntityFramework.dll
+C:\Users\Nadine Ferreira\Documents\2018\INF354\GreenhouseINF354HW\INF354Greenhouse\INF354Greenhouse\bin\EntityFramework.SqlServer.dll
+C:\Users\Nadine Ferreira\Documents\2018\INF354\GreenhouseINF354HW\INF354Greenhouse\INF354Greenhouse\bin\EntityFramework.xml
+C:\Users\Nadine Ferreira\Documents\2018\INF354\GreenhouseINF354HW\INF354Greenhouse\INF354Greenhouse\bin\EntityFramework.SqlServer.xml
+C:\Users\Nadine Ferreira\Documents\2018\INF354\GreenhouseINF354HW\INF354Greenhouse\INF354Greenhouse\obj\Debug\INF354Greenhouse.csprojResolveAssemblyReference.cache
+C:\Users\Nadine Ferreira\Documents\2018\INF354\GreenhouseINF354HW\INF354Greenhouse\INF354Greenhouse\obj\Debug\INF354Greenhouse.dll
+C:\Users\Nadine Ferreira\Documents\2018\INF354\GreenhouseINF354HW\INF354Greenhouse\INF354Greenhouse\obj\Debug\INF354Greenhouse.pdb
